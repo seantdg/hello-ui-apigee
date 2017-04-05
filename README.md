@@ -1,6 +1,6 @@
 # hello-ui-apigee
 
-This is a Hello World UI that uses the Express JS server library and Jade for templating. You can deploy to Apige using the following command:
+This is a Hello World UI that uses the Express JS server library and Jade for templating. You can deploy to Apigee using the following command:
 
 apigeetool deploynodeapp -n (api name) -b (basepath) -e (environment) -o (org name)
 
